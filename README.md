@@ -5,4 +5,4 @@ Checks to see if they got it right or wrong until the user appears to have maste
 
 # Behind the scenes
 Generate simple addition problems involving adding two integers
-Keep giving problems until use has gotten 3 probelsm correct __in a row__
+Keep giving problems until use has gotten 3 probelsm correct **__in a row__**
